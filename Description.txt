@@ -1,0 +1,3 @@
+SNeurons10.py -> implementation of the mismatch detection circuit
+SNeurons10_Test -> several files demonstrating basic capabilities of the circuit. Figures 3.2-15 of the thesis. 
+PixelCorridor10.py -> navigation system in a 1D space. Figures 3.18-25 of the thesis. 
